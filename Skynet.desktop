@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Skynet Media Sharing
+Exec=<PATH-TO-TRANSFER.SH> %U
+Type=Application
+Name[en_US]=Skynet
