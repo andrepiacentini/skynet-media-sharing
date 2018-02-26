@@ -1,7 +1,7 @@
 # skynet-media-sharing
 a really handy bash script to upload files to a webserver via scp
 
-[![Skynet Media Sharing](http://img.youtube.com/vi/LT2RGI58MGg/0.jpg)](http://www.youtube.com/watch?v=LT2RGI58MGg "Skynet Media Sharing")
+[![Example video showing in action](http://img.youtube.com/vi/BUx1csAi4qA/0.jpg)](http://www.youtube.com/watch?v=BUx1csAi4qA)
 
 ## Client side
 
